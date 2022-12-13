@@ -1,0 +1,17 @@
+
+  
+  .example-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    padding-top: 20px;
+  }
+  
+  #myGrid {
+    flex: 1 1 0px;
+    width: 100%;
+  }
+
+  .btn {
+    margin-right: 20px;
+  }
